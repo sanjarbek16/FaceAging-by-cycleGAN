@@ -3,8 +3,6 @@ debug*
 results/
 build/
 dist/
-datasets/*/trainA/
-datasets/*/trainB/
 datasets/*/testA/
 datasets/*/testB/
 datasets/*/*.mat

@@ -6,7 +6,7 @@
              aspect_ratio: 1.0                           
                batch_size: 1                             
           checkpoints_dir: ./checkpoints                 
-                 dataroot: ./datasets/selfies            	[default: None]
+                 dataroot: ./datasets/young2old          	[default: None]
              dataset_mode: unaligned                     
                 direction: AtoB                          
           display_winsize: 256                           
