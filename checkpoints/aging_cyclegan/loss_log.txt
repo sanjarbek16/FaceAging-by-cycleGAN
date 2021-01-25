@@ -9464,3 +9464,4 @@
 (epoch: 200, iters: 4528, time: 0.176, data: 0.001) D_A: 0.153 G_A: 0.542 cycle_A: 0.465 idt_A: 0.000 D_B: 0.131 G_B: 0.639 cycle_B: 0.429 idt_B: 0.000 
 (epoch: 200, iters: 4628, time: 0.174, data: 0.001) D_A: 0.081 G_A: 0.542 cycle_A: 0.526 idt_A: 0.000 D_B: 0.119 G_B: 0.578 cycle_B: 0.527 idt_B: 0.000 
 (epoch: 200, iters: 4728, time: 0.309, data: 0.001) D_A: 0.118 G_A: 0.320 cycle_A: 0.482 idt_A: 0.000 D_B: 0.273 G_B: 0.471 cycle_B: 0.486 idt_B: 0.000 
+================ Training Loss (Mon Jan 25 17:02:10 2021) ================
