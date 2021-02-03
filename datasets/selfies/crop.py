@@ -19,7 +19,7 @@ def crop_center(pil_img, crop_width, crop_height):
 def crop_max_square(pil_img):
     return crop_center(pil_img, min(pil_img.size), min(pil_img.size))
 
-for i in range(1, 2003):
+for i in range(1, 3):
 
 
     my_file = Path('new/face ('+str(i)+').jpg')
